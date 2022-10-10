@@ -5,7 +5,7 @@
 
 ## Project Details
 
-This is  a simple eye catchy landing page where some dynamic components are available. Like Google maps is also available in this project to show the leader.
+This is  a simple eye catchy landing page where some dynamic components are available. Header, Footer and SwiperJs all are dynamic compnent make the website eye catchy. Finally Google maps is also available in this project to show the content.
 
 ### Project Tools
 * ReactJS
