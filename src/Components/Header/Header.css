@@ -1,0 +1,22 @@
+.menu_link::before {
+    content: '';
+    background-color: #F000B8;
+    width: 0%;
+    margin-left: 15px;
+    height: 3px;
+    border-radius: 12px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    visibility: hidden;
+    transition: width 0.4s ease-in-out;
+}
+
+.menu_link:hover::before {
+    visibility: visible;
+    width: 80%;
+}
+
+.header_section:hover .social_menu {
+    color: #37CDBE;
+}

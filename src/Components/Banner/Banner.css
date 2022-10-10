@@ -1,0 +1,22 @@
+.banner:before {
+    content: '';
+    background-color: #06162dc1;
+    width: 100%;
+    height: 85vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+@media (min-width:768px) {
+    .banner:before {
+        content: '';
+        background-color: #06162dc1;
+        width: 100%;
+        height: 90vh;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+}
